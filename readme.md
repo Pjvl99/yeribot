@@ -19,7 +19,7 @@ A modular Python automation bot for WhatsApp Web that integrates Google's Gemini
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/whatsapp-bot.git](https://github.com/Pjvl99/yeribot)
+   git clone https://github.com/pjvl99/yeribot.git
    cd whatsapp-bot
    ```
 

@@ -19,7 +19,7 @@ A modular Python automation bot for WhatsApp Web that integrates Google's Gemini
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/whatsapp-bot.git](https://github.com/yourusername/whatsapp-bot.git)
+   git clone [https://github.com/yourusername/whatsapp-bot.git](https://github.com/Pjvl99/yeribot)
    cd whatsapp-bot
    ```
 
@@ -30,9 +30,9 @@ A modular Python automation bot for WhatsApp Web that integrates Google's Gemini
    *(Create requirements.txt with: `selenium`, `google-cloud-bigquery`, `pandas`, `requests`, `python-dotenv`, `pyperclip`)*
 
 3. **Environment Setup:**
-   Copy `.env.example` to `.env` and fill in your details:
+   Copy `env.example` to `.env` and fill in your details:
    ```bash
-   cp .env.example .env
+   cp env.example .env
    ```
 
    **Important:** You need to locate your Firefox Profile path to persist your WhatsApp Web login session.
